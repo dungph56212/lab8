@@ -1,0 +1,32 @@
+form{
+    width: 300px;
+    background: rgb(182, 237, 88);
+    margin: 0 auto;
+    box-shadow: 10px 10px 20px rgb(126, 192, 26);
+    border-radius: 2% ;
+    padding: 20px 0;
+    padding-left: 20px;
+}
+
+form input[type = "submit"]{
+    background-color: rgb(38, 179, 182);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: none;
+    padding: 5px;
+   margin-left: 5%;
+}
+form .dung{
+    background-color: rgb(97, 188, 101);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: none;
+    padding: 5px;
+    margin-left: 19%;
+}
+.abc{
+    background-color: rgb(201, 231, 221);
+}
+.zzz{
+    background-color: rgb(170, 176, 243);
+    border-radius: 15%;
+    margin-left: 10%;
+}
